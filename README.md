@@ -164,6 +164,5 @@ Input (28×28×1)
 
 ## 👤 Author
 
-**Your Name**  
-Department of [Your Department]  
-[Your University / Institution]
+**Sharmeen Ahsan**  
+sharmeens19@gmail.com
